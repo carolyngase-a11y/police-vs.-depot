@@ -1,0 +1,10 @@
+[
+  { "id": "nfx3300", "name": "Nürnberger NFX3300", "effective_cost_pa": 0.007 },
+  { "id": "fr10", "name": "Alte Leipziger FR10", "effective_cost_pa": 0.008 },
+  { "id": "eri", "name": "Continentale EasyRente Invest ERI", "effective_cost_pa": 0.008 },
+  { "id": "investflex", "name": "Allianz PrivatRente InvestFlex", "effective_cost_pa": 0.01 },
+  { "id": "axa-alvf", "name": "AXA Fonds-PrivatRente ALVF1/2/7", "effective_cost_pa": 0.01 },
+  { "id": "wwk-premium", "name": "WWK Premium FondsRente 2.0", "effective_cost_pa": 0.009 },
+  { "id": "maximo", "name": "Swiss Life Maximo Privatrente ohne Garantie", "effective_cost_pa": 0.013 },
+  { "id": "maxxellence", "name": "Standard Life Maxxellence Invest Privatvorsorge", "effective_cost_pa": 0.0192 }
+]

@@ -1,0 +1,6 @@
+{
+  "withholding_tax_rate": 0.25,
+  "soli_rate": 0.055,
+  "church_tax_rate": 0.08,
+  "partial_exemption_equity": 0.3
+}
